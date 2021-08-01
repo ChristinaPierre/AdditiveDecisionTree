@@ -4,7 +4,6 @@ from sklearn import tree
 from sklearn.base import BaseEstimator
 from sklearn.metrics import f1_score
 from info_gain import info_gain
-import math
 from enum import Enum 
 
 
